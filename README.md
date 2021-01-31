@@ -25,7 +25,7 @@
 
 삼성 멀티캠퍼스 [융복합 프로제트형 클라우드 서비스 개발] 과정 - 1차 웹 인터페이스 프로젝트 
 
-GitHub repo⇒ [https://github.com/redcarrot01/lecture_review_site](https://github.com/redcarrot01/lecture_review_site)
+GitHub repo⇒ [https://github.com/coconutstd/lecture_review_site](https://github.com/coconutstd/lecture_review_site)
 
 멀티캠퍼스 학생들을 위한 커뮤니티 사이트 => http://ondjango.site/ (Server is always open.)
 
